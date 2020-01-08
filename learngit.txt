@@ -1,1 +1,3 @@
-this file is created as a dummy for the purpose of learning git
+this file is created as a dummy for the purpose of learning git.
+
+lets make some changes
